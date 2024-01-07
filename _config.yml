@@ -40,7 +40,7 @@ sass:
 
 incremental: true
 
-exclude: ['gulpfile.js', 'Gemfile', 'Gemfile.lock']
+include: ['gulpfile.js', 'Gemfile', 'Gemfile.lock']
 
 collections:
   works:
